@@ -1,17 +1,16 @@
 # Personal-Portfolio
 > This is personal portfolio website.
 
-![Portfolio](https://raw.github.com/Meri-MG/portfolio---react/master/src/assets/port.png)
+![Protfolio](https://raw.githubusercontent.com/CHANDRA92/Chandra.Portfolio/main/src/assets/protfolio.png)
 
 ## Built With
 
 - React
 - CSS
-- VS code
 
 ## Live Demo
 
-- [Live Demo](https://meri-mg-portfolio.netlify.app/)
+- [Live Demo]()
 
 
 # Getting Started
@@ -28,12 +27,12 @@
 
 - Choose a folder in your local machine where you want this repository to be copied
 
-- Clone this [repository](https://github.com/Meri-MG/portfolio---react) to your local machine 
+- Clone this [repository](https://github.com/CHANDRA92/Chandra.Portfolio.git) to your local machine
 - ```
-  git clone git@github.com:Meri-MG/portfolio---react.git
+  https://github.com/CHANDRA92/Chandra.Portfolio.git
   ```
 
-- Navigate to `cd portfolio---react`  directory.
+- Navigate to `cd Chandra.Portfolio`  directory.
 
 - To install all the app dependencies on the command line run
 - ```
@@ -47,14 +46,10 @@
 
 ## Author
 
-:woman: **Meri Gogichashvili**
+:man: **Chandra Sekhar Karmakar**
 
-- [GitHub](https://github.com/Meri-MG)
-- [LinkedIn](https://www.linkedin.com/in/meri-gogichashvili/)
-
-## 🤝 Contributing
-- Contributions, issues, and feature requests are welcome!
-- Feel free to check the [issues page](https://github.com/Meri-MG/portfolio---react/issues).
+- [GitHub](https://github.com/CHANDRA92)
+- [LinkedIn](https://www.linkedin.com/in/chandra-sekhar-karmakar/)
 
 # Show your support
 Give a ⭐ if you like this project!
