@@ -10,7 +10,7 @@
 
 ## Live Demo
 
-- [Live Demo]()
+- [Live Demo](https://chandrashowcase.netlify.app/)
 
 
 # Getting Started
